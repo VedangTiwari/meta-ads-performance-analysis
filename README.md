@@ -190,9 +190,6 @@ Through this project, I gained hands-on experience in:
 
 - Power BI Dashboard (`.pbix`)
 - CSV Datasets
-- Business Requirement Document
-- Dashboard Insights Document
-- Domain Knowledge Document
 
 ---
 
@@ -201,7 +198,7 @@ Through this project, I gained hands-on experience in:
 
 
 ```md
-meta_ads.png
+<img width="1420" height="792" alt="meta_ads" src="https://github.com/user-attachments/assets/443b191e-6a6d-486c-b97e-e1c5d2dee9bb" />
 ```
 
 ---
