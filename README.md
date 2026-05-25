@@ -196,12 +196,8 @@ Through this project, I gained hands-on experience in:
 ## 🖼️ Dashboard Preview
 
 
+<img width="1420" height="792" alt="meta_ads" src="https://github.com/user-attachments/assets/fd2c773b-3a15-4856-87b2-04f157f89e6b" />
 
-```md
-<img width="1420" height="792" alt="meta_ads" src="https://github.com/user-attachments/assets/443b191e-6a6d-486c-b97e-e1c5d2dee9bb" />
-```
-
----
 
 ## 🔮 Future Improvements
 
